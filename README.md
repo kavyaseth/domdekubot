@@ -6,3 +6,4 @@ A discord bot for the sin squad server.
 - Infraction system
 - Same hat counter
 - Codes for reaction images
+- Birthday announcements
